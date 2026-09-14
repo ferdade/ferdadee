@@ -15,11 +15,6 @@ Tenho me aventurado nessas áreas ainda por isso pucos projetos, mas vamos em fr
 * 🔬 **[hinerds](https://github.com/ferdadee/hinerds):** Meu laboratório prático com notebooks (Testes e manipulação de dados).
 * 💻 **[Curso-div-a](https://github.com/ferdadee/Curso-div-a):** Projetos e exercícios focados em desenvolvimento Web.
 
-### 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdadee&show_icons=true&theme=dracula&hide_border=true" width="400px" />
-</div>
-
 ### 📂 Meus Focos Atuais
 * Análise de dados em laboratório e estruturação de qualidade (ex: normativas ISO 15189).
 * Construção de laboratórios práticos no Google Colab.
