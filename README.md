@@ -15,11 +15,5 @@ Tenho me aventurado nessas áreas ainda por isso pucos projetos, mas vamos em fr
 * Construção de laboratórios práticos no Google Colab.
 * Planejamento ágil e melhoria contínua de processos.
 
-### 📊 Minhas Estatísticas
-<!-- Substitua "SEU_USUARIO" pelo seu nome de usuário real do GitHub abaixo -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FERDADE&show_icons=true&theme=radical" width="400px" />
-</div>
-
 ### 📬 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-rochas/)
