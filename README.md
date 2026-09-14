@@ -18,7 +18,7 @@ Tenho me aventurado nessas áreas ainda por isso pucos projetos, mas vamos em fr
 ### 📊 Minhas Estatísticas
 <!-- Substitua "SEU_USUARIO" pelo seu nome de usuário real do GitHub abaixo -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdade&show_icons=true&theme=radical" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FERDADE&show_icons=true&theme=radical" width="400px" />
 </div>
 
 ### 📬 Como me encontrar
